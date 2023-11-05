@@ -3,7 +3,6 @@
 ABOUT:- 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
 Following data set was used :- https://github.com/soundmind07/walmart-sales-data-analysis/blob/main/WalmartSalesData.csv.csv.
-Link of excel file.https://docs.google.com/spreadsheets/d/1HxQztlr8KUknoRL-t4NYtZrFstC0MeQ8/edit?usp=sharing&ouid=112040074699913508782&rtpof=true&sd=true
 
 PURPOSE OF THE PROJECTS:-
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
